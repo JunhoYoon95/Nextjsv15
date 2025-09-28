@@ -1,4 +1,4 @@
-# 짐코딩 블로그
+# 준호 블로그
 
 Next.js 15, Tailwind CSS, shadcn/ui를 사용해서 만든 개인 블로그입니다.
 
