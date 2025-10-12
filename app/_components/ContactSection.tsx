@@ -14,19 +14,19 @@ const contactItems = [
         title: "광고 및 제휴",
         description: "브랜드 홍보, 컨텐츠 제작, 협업 제안",
         mailto: {
-            email: "bruce.lean17@gmail.com",
+            email: "junmannnyoon@gmail.com",
             subject: "[광고/제휴] 제안",
             body: "브랜드/제품명:\n제안 내용:\n기간:\n예산:",
         },
     },
     {
         icon: BookOpen,
-        title: "강의 문의",
+        title: "기술 토론",
         description: "기술 강의, 워크샵, 세미나 진행",
         mailto: {
-            email: "bruce.lean17@gmail.com",
-            subject: "[강의] 문의",
-            body: "강의 주제:\n예상 인원:\n희망 일정:\n문의 내용:",
+            email: "junmannnyoon@gmail.com",
+            subject: "[기술 토론] 문의",
+            body: "토론 주제:\n예상 인원:\n희망 일정:\n문의 내용:",
         },
     },
     {
@@ -34,7 +34,7 @@ const contactItems = [
         title: "기타 문의",
         description: "채용, 인터뷰, 기타 협업 제안",
         mailto: {
-            email: "bruce.lean17@gmail.com",
+            email: "junmannnyoon@gmail.com",
             subject: "[기타] 문의",
             body: "문의 종류:\n문의 내용:",
         },
